@@ -1,0 +1,109 @@
+{
+  "flights": [
+    {
+      "origin": "London",
+      "destination": "Barcelona",
+      "departure": "2019-06-01T16:05:00Z"
+    },
+    {
+      "origin": "London",
+      "destination": "Barcelona",
+      "departure": "2019-06-02T16:05:00Z"
+    },
+    {
+      "origin": "Barcelona",
+      "destination": "London Heathrow",
+      "departure": "2019-06-06T10:25:00Z"
+    },
+    {
+      "origin": "London",
+      "destination": "Paris",
+      "departure": "2019-06-01T08:25:00Z"
+    },
+    {
+      "origin": "London",
+      "destination": "Paris",
+      "departure": "2019-06-05T08:25:00Z"
+    },
+    {
+      "origin": "Paris",
+      "destination": "London",
+      "departure": "2019-06-02T18:40:00Z"
+    },
+    {
+      "origin": "Paris",
+      "destination": "London",
+      "departure": "2019-06-06T18:40:00Z"
+    },
+    {
+      "origin": "London",
+      "destination": "Madrid",
+      "departure": "2019-06-02T13:10:00Z"
+    },
+    {
+      "origin": "Madrid",
+      "destination": "London",
+      "departure": "2019-06-05T13:50:00Z"
+    },
+    {
+      "origin": "London",
+      "destination": "Lisbon",
+      "departure": "2019-06-03T11:10:00Z"
+    },
+    {
+      "origin": "Lisbon",
+      "destination": "London",
+      "departure": "2019-06-04T22:05:00Z"
+    },
+    {
+      "origin": "London",
+      "destination": "Rome",
+      "departure": "2019-06-03T14:16:00Z"
+    },
+    {
+      "origin": "Rome",
+      "destination": "London",
+      "departure": "2019-06-01T10:55:00Z"
+    },
+    {
+      "origin": "Rome",
+      "destination": "London",
+      "departure": "2019-06-02T10:55:00Z"
+    },
+    {
+      "origin": "Rome",
+      "destination": "London",
+      "departure": "2019-06-05T10:55:00Z"
+    },
+    {
+      "origin": "London",
+      "destination": "Berlin",
+      "departure": "2019-06-05T16:15:00Z"
+    },
+    {
+      "origin": "London",
+      "destination": "Berlin",
+      "departure": "2019-06-01T16:15:00Z"
+    },
+    {
+      "origin": "London",
+      "destination": "Berlin",
+      "departure": "2019-06-02T16:15:00Z"
+    },
+    {
+      "origin": "Berlin",
+      "destination": "London",
+      "departure": "2019-06-05T06:46:00Z"
+    },
+    {
+      "origin": "Berlin",
+      "destination": "London",
+      "departure": "2019-06-06T06:46:00Z"
+    },
+    {
+      "origin": "Berlin",
+      "destination": "London",
+      "departure": "2019-06-04T09:10:00Z"
+    }
+  ]
+}
